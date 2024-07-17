@@ -23,7 +23,6 @@ You can download the app for your preferred platform using the links below:
 
 Watch the video below to learn how to use Encrypted Telegram:
 
-[![Video Introduction](https://img.youtube.com/vi/YourVideoID/0.jpg)](https://www.youtube.com/watch?v=YourVideoID)
 
 ## How to Use
 
@@ -37,7 +36,8 @@ Watch the video below to learn how to use Encrypted Telegram:
 
 If you have any questions or suggestions, please contact us via:
 
-- Email: support@encryptedtelegram.com
-- Telegram: @EncryptedTelegramSupport
-
+- Email:encryptedtelegram@gmail.com
+- Facebook:https://www.facebook.com/profile.php?id=61562545331820
+- X:https://x.com/Telegram_APP01
+  
 Thank you for using Encrypted Telegram!
