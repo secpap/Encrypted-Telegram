@@ -23,6 +23,7 @@ You can download the app for your preferred platform using the links below:
 
 Watch the video below to learn how to use Encrypted Telegram:
 
+（https://youtu.be/w8Rfv3yEx4Q）
 
 ## How to Use
 
