@@ -23,7 +23,7 @@ You can download the app for your preferred platform using the links below:
 
 Watch the video below to learn how to use Encrypted Telegram:
 
-[![Video Introduction](https://github.com/secpap/Encrypted-Telegram/issues/1#issue-2412858063)]
+https://github.com/secpap/Encrypted-Telegram/issues/1#issue-2412858063
 
 ## How to Use
 
