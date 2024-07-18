@@ -36,6 +36,16 @@ Watch the video below to learn how to use Encrypted Telegram:
 4. Start chatting with your friends.
 5. All messages are automatically encrypted, and the IP address of the other party is displayed in the chat window.
 
+## Security Measures and Antivirus Whitelisting
+
+Our program includes advanced security measures which might be flagged as malicious by some antivirus software. If this happens, please follow the steps below to add the program to your antivirus software's whitelist:
+
+1. Open your antivirus software settings.
+2. Find the “Whitelist” or “Exclusions” section.
+3. Add the installed Encrypted Telegram program path to the whitelist.
+
+Steps may vary depending on the antivirus software you are using. Please refer to your antivirus software manual or help documentation for specific instructions.
+
 ## Contact Us
 
 If you have any questions or suggestions, please contact us via:
