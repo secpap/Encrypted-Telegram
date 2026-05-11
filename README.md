@@ -21,7 +21,7 @@ You can download the app for your preferred platform using the links below:
 
 ## Video Introduction
 
-![Display the map](https://github.com/secpap/Encrypted-Telegram/blob/main/IMG_202407251885_png.png?raw=true)
+![Display the map](https://github.com/secpap/Encrypted-Telegram/blob/main/main.png?raw=true)
 
 
 Watch the video below to learn how to use Encrypted Telegram:
@@ -45,6 +45,11 @@ Our program includes advanced security measures which might be flagged as malici
 3. Add the installed Encrypted Telegram program path to the whitelist.
 
 Steps may vary depending on the antivirus software you are using. Please refer to your antivirus software manual or help documentation for specific instructions.
+
+## Source Code
+
+Download the Encrypted Telegram For Windows source code from [https://github.com/secpap/encrypted-telegram-desktop](https://github.com/secpap/encrypted-telegram-desktop).
+Download the Encrypted Telegram For Android source code from [https://github.com/secpap/encrypted-telegram-android](https://github.com/secpap/encrypted-telegram-android).
 
 ## Contact Us
 
