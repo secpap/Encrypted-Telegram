@@ -9,7 +9,6 @@ Encrypted Telegram is a messaging application based on Telegram, providing end-t
 ## Key Features
 
 - **End-to-End Encryption**: All messages are encrypted using advanced encryption standards, ensuring only the communicating parties can read the content.
-- **IP Address Display**: Shows the IP address of the other party in the conversation, offering greater transparency and information.
 - **Cross-Platform Support**: Available for Windows and Android platforms.
 
 ## Download Links
@@ -30,11 +29,11 @@ Watch the video below to learn how to use Encrypted Telegram:
 
 ## How to Use
 
-1. Download the appropriate installer.
+1. Download the installer.
 2. Install the application on your device.
 3. Register or login to your account.
 4. Start chatting with your friends.
-5. All messages are automatically encrypted, and the IP address of the other party is displayed in the chat window.
+5. All messages will be automatically encrypted.
 
 ## Security Measures and Antivirus Whitelisting
 
@@ -48,8 +47,8 @@ Steps may vary depending on the antivirus software you are using. Please refer t
 
 ## Source Code
 
-- Download the Encrypted Telegram For Windows source code from [https://github.com/secpap/encrypted-telegram-desktop](https://github.com/secpap/encrypted-telegram-desktop).
-- Download the Encrypted Telegram For Android source code from [https://github.com/secpap/encrypted-telegram-android](https://github.com/secpap/encrypted-telegram-android).
+- Encrypted Telegram For Android source code: [https://github.com/secpap/encrypted-telegram-android](https://github.com/secpap/encrypted-telegram-android).
+- Encrypted Telegram For Windows source code: [https://github.com/secpap/encrypted-telegram-desktop](https://github.com/secpap/encrypted-telegram-desktop).
 
 ## Contact Us
 
