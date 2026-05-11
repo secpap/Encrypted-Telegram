@@ -48,8 +48,8 @@ Steps may vary depending on the antivirus software you are using. Please refer t
 
 ## Source Code
 
-Download the Encrypted Telegram For Windows source code from [https://github.com/secpap/encrypted-telegram-desktop](https://github.com/secpap/encrypted-telegram-desktop).
-Download the Encrypted Telegram For Android source code from [https://github.com/secpap/encrypted-telegram-android](https://github.com/secpap/encrypted-telegram-android).
+- Download the Encrypted Telegram For Windows source code from [https://github.com/secpap/encrypted-telegram-desktop](https://github.com/secpap/encrypted-telegram-desktop).
+- Download the Encrypted Telegram For Android source code from [https://github.com/secpap/encrypted-telegram-android](https://github.com/secpap/encrypted-telegram-android).
 
 ## Contact Us
 
