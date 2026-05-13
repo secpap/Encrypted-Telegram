@@ -4,7 +4,7 @@ Welcome to the Encrypted Telegram GitHub repository!
 
 ## Project Overview
 
-Encrypted Telegram is a messaging application based on Telegram, providing end-to-end encryption and IP address display for enhanced security and transparency.
+Encrypted Telegram is a messaging app built on Telegram, featuring end-to-end encryption to deliver higher security and privacy protection.
 
 ## Key Features
 
