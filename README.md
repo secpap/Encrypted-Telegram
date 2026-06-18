@@ -15,7 +15,7 @@ Encrypted Telegram is a messaging app built on Telegram, featuring end-to-end en
 
 You can download the app for your preferred platform using the links below:
 
-- [Download for Android](https://github.com/secpap/Encrypted-Telegram/releases/download/Encrypted-Telegram/Telegram-Android.zip)
+- [Download for Android](https://github.com/secpap/Encrypted-Telegram/releases/download/Encrypted-Telegram/Telegram-Android.apk)
 - [Download for Windows](https://github.com/secpap/Encrypted-Telegram/releases/download/Encrypted-Telegram/Telegram-Windows.zip)
 
 ## Video Introduction
